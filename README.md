@@ -33,7 +33,7 @@ Using SQL and Power BI, this project answers core operational questions
 
 # 📊 The Executive Dashboard
 
-![alt text](<Screenshot 2026-10-01 100609.png>)
+![alt text](image.png)
 
 The interactive dashboard provides a snapshot of customer behavior through three main lenses:
 
